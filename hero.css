@@ -1,7 +1,7 @@
 body{
 	margin: 0;
 		font-family: 'Helvetica', 'Arial', sans-serif;
-		font-size: 20px;
+		font-size: 30pxpx;
 		line-height: 30px;
 
 }
@@ -16,6 +16,10 @@ header {
 h1, h2 {
 	font-family: 'Press Start 2P', cursive;
 }
+
+/* header styles*/
+/* write your comment here */
+
 header h1{
 	color: white;
 	font-size: 50px;
